@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://exomoana.github.io/GWr/sitemap_index.txt
+Sitemap: https://exomoana.github.io/eNS/sitemap_index.txt
+Sitemap: https://exomoana.github.io/hVS/sitemap_index.txt
+Sitemap: https://exomoana.github.io/wsO/sitemap_index.txt
